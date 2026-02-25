@@ -6,7 +6,7 @@ Data Analyst | SQL • Power BI • Python | Turning operational data into measu
 
 ## What I Do
 
-I analyze business operations data to identify performance gaps, improve process efficiency, and drive data-informed decisions. My work focuses on translating raw datasets into structured dashboards, insights, and actionable recommendations.
+I transform operational and transactional data into KPI-driven dashboards that identify performance gaps, reduce inefficiencies, and support executive decision-making. My work focuses on improving reporting accuracy, accelerating insight delivery, and enabling data-backed operational strategy.
 
 ---
 
