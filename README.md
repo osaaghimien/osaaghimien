@@ -1,6 +1,4 @@
-# Intro
 
-Data Analyst | SQL • Power BI • Python | Turning operational data into measurable business decisions
 
 ---
 
