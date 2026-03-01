@@ -1,4 +1,6 @@
+# Intro
 
+I’m a data analyst focused on transforming raw data into structured, decision-ready insights. I specialize in building KPI-driven reporting systems that help organizations identify performance gaps, improve operational efficiency, and support executive-level decision-making.
 
 ---
 
@@ -24,19 +26,19 @@ I transform operational and transactional data into KPI-driven dashboards that i
 
 ### SQL – Order Fulfillment Risk Analysis  
 Analyzed late shipment patterns to identify operational bottlenecks and reduce delivery delays.  
-Repository Link: [Insert Repository URL]
+**Repository Link:** [Insert Repository URL]
 
 ### Power BI – Regional Sales & Profit Dashboard  
 Built an executive dashboard analyzing revenue, profit margin, and regional performance trends.  
-Repository Link: [Insert Repository URL]
+**Repository Link:** [Insert Repository URL]
 
 ### Python – Customer Segmentation Analysis  
 Performed exploratory data analysis and segmentation modeling to identify high-value customer groups.  
-Repository Link: [Insert Repository URL]
+**Repository Link:** [Insert Repository URL]
 
 ---
 
 ## Contact
 
-Email: yourname@email.com  
-LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: yourname@email.com  
+- LinkedIn: https://www.linkedin.com/in/yourprofile
