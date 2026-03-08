@@ -40,5 +40,5 @@ Performed exploratory data analysis and segmentation modeling to identify high-v
 
 ## Contact
 
-- Email: yourname@email.com  
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: mytestemail@yahoo.com 
+- LinkedIn: https://www.linkedin.com/in/mytest
