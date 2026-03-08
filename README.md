@@ -34,7 +34,7 @@ Built an executive dashboard analyzing revenue, profit margin, and regional perf
 
 ### Python – Customer Segmentation Analysis  
 Performed exploratory data analysis and segmentation modeling to identify high-value customer groups.  
-**Repository Link:** [[Insert Repository URL]](https://github.com/osaaghimien/project-readme-template)
+**Repository Link:** (https://github.com/osaaghimien/project-readme-template)
 
 ---
 
