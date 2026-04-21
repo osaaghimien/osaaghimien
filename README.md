@@ -27,11 +27,11 @@ Analyzed regional sales and profit performance to identify top-performing areas 
 ## Communication
 
 **Project Walkthrough: Sales Performance Analysis**
-Video Link: [Insert Video Link]
+Video Link:https://www.loom.com/share/1234567890abcdef
 
 ---
 
 ## Contact
 
-LinkedIn: [Insert LinkedIn Link]
-Email: [Insert Email]
+LinkedIn: www.linkedin.com/in/osarumwense-aghimien-b0a17b37b
+Email: test@example.com
