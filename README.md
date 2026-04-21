@@ -1,16 +1,37 @@
-## Hi there 👋
+## Intro
 
-<!--
-**osaaghimien/osaaghimien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Intelligence Analyst focused on turning data into clear, actionable insights that drive better business decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+I analyze business data to identify trends, measure performance, and uncover opportunities for improvement. I specialize in transforming complex datasets into structured insights that support efficient operations and informed decision-making.
+
+---
+
+## Tools & Skills
+
+SQL | Power BI | DAX | Data Modeling | Data Analysis | Excel
+
+---
+
+## Featured Projects
+
+**Sales Performance Dashboard (Power BI)**
+Analyzed regional sales and profit performance to identify top-performing areas and uncover growth opportunities.
+[Project Link]
+
+---
+
+## Communication
+
+**Project Walkthrough: Sales Performance Analysis**
+Video Link: [Insert Video Link]
+
+---
+
+## Contact
+
+LinkedIn: [Insert LinkedIn Link]
+Email: [Insert Email]
