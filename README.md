@@ -18,10 +18,9 @@ SQL | Power BI | DAX | Data Modeling | Data Analysis | Excel
 
 ## Featured Projects
 
-**Healthcare Readmission Analysis Dashboard (Power BI)**
-Analyzed regional sales and profit performance to identify top-performing areas and uncover growth opportunities.
+**Healthcare Readmission Analysis Dashboard (Power BI)**  
+Analyzed 30-day hospital readmission patterns to identify high-risk patient groups and key drivers of avoidable readmissions.  
 [Project Link]
-
 ---
 
 ## Communication
@@ -34,4 +33,4 @@ Video Link:https://www.youtube.com/watch?v=yi5sen9ffiY
 ## Contact
 
 LinkedIn: www.linkedin.com/in/osarumwense-aghimien-b0a17b37b
-Email: test@example.com
+Email: osaaghimien@gmail.com
