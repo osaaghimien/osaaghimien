@@ -18,7 +18,7 @@ SQL | Power BI | DAX | Data Modeling | Data Analysis | Excel
 
 ## Featured Projects
 
-**Sales Performance Dashboard (Power BI)**
+**Healthcare Readmission Analysis Dashboard (Power BI)**
 Analyzed regional sales and profit performance to identify top-performing areas and uncover growth opportunities.
 [Project Link]
 
@@ -26,7 +26,7 @@ Analyzed regional sales and profit performance to identify top-performing areas 
 
 ## Communication
 
-**Project Walkthrough: Sales Performance Analysis**
+**Project Walkthrough: Healthcare Readmission Analysis Dashboard**
 Video Link:https://www.youtube.com/watch?v=yi5sen9ffiY
 
 ---
